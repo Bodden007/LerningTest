@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02fa6a55-aba7-44b1-850e-74bf2a2ba512" name="Changes" comment="Begin">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redmi" beforeDir="false" afterPath="$PROJECT_DIR$/Redmi" afterDir="false" />
-    </list>
+    <list default="true" id="02fa6a55-aba7-44b1-850e-74bf2a2ba512" name="Changes" comment="Begin_Begin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652586390728</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Begin_Begin">
+      <created>1652587110471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652587110471</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Begin_Begin">
+      <created>1652587369810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652587369810</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +95,7 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -103,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Begin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Begin" />
+    <MESSAGE value="Begin_Begin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Begin_Begin" />
   </component>
 </project>
